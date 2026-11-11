@@ -1,0 +1,27 @@
+[submodule "CVE-2026-109618-109619"]
+	path = CVE-2026-109618-109619
+	url = https://github.com/godylockz/CVE-2026-109618-109619.git
+[submodule "CVE-2026-92592"]
+	path = CVE-2026-92592
+	url = https://github.com/godylockz/CVE-2026-92592.git
+[submodule "CVE-2025-32432"]
+	path = CVE-2025-32432
+	url = https://github.com/godylockz/CVE-2025-32432.git
+[submodule "CVE-2025-8110"]
+	path = CVE-2025-8110
+	url = https://github.com/godylockz/CVE-2025-8110.git
+[submodule "CVE-2024-42327"]
+	path = CVE-2024-42327
+	url = https://github.com/godylockz/CVE-2024-42327.git
+[submodule "CVE-2024-41570"]
+	path = CVE-2024-41570
+	url = https://github.com/godylockz/CVE-2024-41570.git
+[submodule "CVE-2024-23897"]
+	path = CVE-2024-23897
+	url = https://github.com/godylockz/CVE-2024-23897.git
+[submodule "CVE-2023-40028"]
+	path = CVE-2023-40028
+	url = https://github.com/godylockz/CVE-2023-40028.git
+[submodule "CVE-2021-44967"]
+	path = CVE-2021-44967
+	url = https://github.com/godylockz/CVE-2021-44967.git
